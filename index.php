@@ -7,5 +7,6 @@
 </head>
 <body>
     <h1>Mi primer respositorio en GitHub</h1>
+    <p>Este es el contenido de mi primer repositorio en GitHub.</p>
 </body>
 </html>
