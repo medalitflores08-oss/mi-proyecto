@@ -16,6 +16,7 @@
             <li><a href="contact.php">Contacto</a></li>
         </ul>
     </nav>
+    <h3> ya esta quedando listo <h3>
 
 </body>
 </html>
